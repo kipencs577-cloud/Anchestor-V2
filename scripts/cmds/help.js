@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.20",
-    author: "Redwan",
+    author: "ncs",
     countDown: 0,
     role: 0,
     shortDescription: {
@@ -66,10 +66,10 @@ module.exports = {
 ─────⭔
 │ » Type ${prefix}help <cmd> to learn.
 ├────────⭔
-│ [Redwan | 𝙏𝙚𝙩𝙧𝙤𝙭𝙞𝙙𝙚]
+│ [ncs | pro]
 ╰─────────────
 
-🌟 Have a great time! 🌟`;
+🌟 the princess 🦆🌟`;
 
       return message.reply(finalMsg);
     } else {
